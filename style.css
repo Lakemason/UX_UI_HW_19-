@@ -207,3 +207,16 @@ a.anchor {
 hr{
   width: 30%;
 }
+.resume-button {
+    background-color: #6759E8;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  .resume-button:hover {
+    background-color: #B7B0F8;
+    cursor: pointer;
+  }
